@@ -1,4 +1,4 @@
-#Lag Switch V2
+# Lag Switch V2
 
 A Python-based network lag simulator that temporarily blocks outbound traffic using Windows Firewall rules.
 
